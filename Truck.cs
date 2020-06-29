@@ -11,7 +11,7 @@ namespace AutoTruck
 
         Dictionary<string, Customer> orderDictionary = new Dictionary<string, Customer>();
         Dictionary<string, Vehicle> truckDictionary = new Dictionary<string, Vehicle>();
-
+        
         List<Customer> orderList = new List<Customer>();
         List<Vehicle> truckList = new List<Vehicle>();
 
